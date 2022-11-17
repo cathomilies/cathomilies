@@ -114,9 +114,9 @@ a {
 }
 
 .hero {
- max-width: 75rem;
+ max-width: 100rem;
  padding: 0 9.6rem;
- align-items: right;
+ align-items: center;
 }
 
 .hero-description {
