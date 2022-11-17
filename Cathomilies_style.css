@@ -116,7 +116,9 @@ a {
 .hero {
  max-width: 100rem;
  padding: 0 9.6rem;
- align-items: center;
+ text-align: right;
+ /*align-items: center;*/
+ box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
 }
 
 .hero-description {
@@ -124,6 +126,7 @@ a {
  line-height: 1.6;
  margin: 4.8rem 0;
  color:#fff;
+ text-align: right;
  /*background-color: #523414;*/
  box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
 }
